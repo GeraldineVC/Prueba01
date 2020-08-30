@@ -1,2 +1,6 @@
 Prueba2 en la rama devgerald
+<<<<<<< HEAD
 Esto e sprueba de LUIS
+=======
+PRUEBA DE GERALD
+>>>>>>> a77242c1778f648f2d98804c9646285fc45244f0
